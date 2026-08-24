@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance & Expense Tracker",
+  "description": "Track personal finance goals and automatically categorize monthly expenses using machine learning to deliver actionable budgeting insights and spending reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
